@@ -7,9 +7,9 @@ This is an example of a Markdown page with an introduction and a table.
 
 Below is a table showcasing sample data for reference:
 
-+--------------+-------------+-------------+
+|--------------|-------------|-------------|
 | Technology   |   RB$_{DL}$ |   Intercept |
-+==============+=============+=============+
+|==============|=============|=============|
 | LTE800       |  0.00117947 |   0.118751  |
 +--------------+-------------+-------------+
 | LTE1800      |  0.00139003 |   0.070084  |
