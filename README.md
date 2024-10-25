@@ -48,3 +48,10 @@ Below is a table showcasing sample data for reference:
 
 
 This table presents basic information for sample individuals.
+
+
+| Element       | Symbol | Atomic Number | Formula        |
+|---------------|--------|---------------|----------------|
+| Water         | H<sub>2</sub>O | 18            | H<sub>2</sub>O         |
+| Carbon Dioxide| CO<sub>2</sub> | 44            | CO<sub>2</sub>         |
+| Methane       | CH<sub>4</sub> | 16            | CH<sub>4</sub>         |
