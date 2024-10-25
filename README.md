@@ -3,7 +3,7 @@
 
 The following tables present the coefficients of the M4T models, organized by input feature. Each table corresponds to a particular model variation, with columns listing the input features included in that variation. The values in each cell represent the estimated coefficient for the associated feature.
 
-## COefficient Values
+## Coefficient Values
 
 | Technology   |   RB<sub>DL</sub> |   Intercept |
 |:-------------|------------------:|------------:|
