@@ -1,11 +1,9 @@
 # Power-Consumption-Model
 # Sample Markdown Page
 
-This is an example of a Markdown page with an introduction and a table.
+The following tables present the coefficients of the M4T models, organized by input feature. Each table corresponds to a particular model variation, with columns listing the input features included in that variation. The values in each cell represent the estimated coefficient for the associated feature.
 
-## Data Table
-
-Below is a table showcasing sample data for reference:
+## COefficient Values
 
 | Technology   |   RB<sub>DL</sub> |   Intercept |
 |:-------------|------------------:|------------:|
