@@ -26,6 +26,7 @@ The following tables present the coefficients of the M4T models, organized by in
 | NR 3700       |        0.00850539 |   0.135734  |
 
 
+## Coefficient Values with V<sub>DL</sub> as input
 | Technology   |   V<sub>DL</sub> |   Intercept |
 |:-------------|-----------------:|------------:|
 | LTE 800       |      1.934 &middot; 10 <sup> - 08  </sup> |   0.123347  |
@@ -35,7 +36,7 @@ The following tables present the coefficients of the M4T models, organized by in
 | LTE 2600      |      5.49077 &middot; 10 <sup> - 09 </sup> |   0.0597127 |
 | NR 3700       |      1.02173 &middot; 10 <sup> - 08 </sup> |   0.163233  |
 
-
+## Coefficient Values with V<sub>UL</sub> as input
 | Technology   |   V<sub>UL</sub> |   Intercept |
 |:-------------|-----------------:|------------:|
 | LTE 800       |      7.41163 &middot; 10 <sup> - 08 </sup> |   0.122385  |
