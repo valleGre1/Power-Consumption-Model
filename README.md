@@ -55,7 +55,7 @@ The following tables present the coefficients of the M4T models, organized by in
 | NR 3700       |       0.00689771  |       0.0063547   |     -2.50702 &middot; 10 <sup> - 09  </sup>|     -9.88026 &middot; 10 <sup> - 09  </sup> |   0 |   0 |  0         |       0           |   0.135002  |
 
 
-| Technology   |   RB<sub>DL</sub> |   RB<sub>UL</sub> |   V<sub>DL</sub> |   V<sub>UL</sub> |          A |   RB<sub>DL</sub> |   Intercept |
+| Technology   |   RB<sub>DL</sub> |   RB<sub>UL</sub> |   V<sub>DL</sub> |   V<sub>UL</sub> |          A |   P<sub>Max</sub> |   Intercept |
 |:-------------|------------------:|------------------:|-----------------:|-----------------:|-----------:|------------------:|------------:|
 | LTE 800       |       0.000435926 |       0.00223956  |      1.07034 &middot; 10 <sup> - 08 </sup> |     -1.93946 &middot; 10 <sup> - 08  </sup> |  0.640399  |       0.00166187  |  -0.729164  |
 | LTE 1800      |       0.000906812 |       0.00106663  |      9.91245 &middot; 10 <sup> - 10 </sup> |     -3.52038 &middot; 10 <sup> - 09 </sup> |  0.0574126 |       0.0016095   |  -0.0462763 |
