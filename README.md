@@ -85,9 +85,9 @@
 | NR3700       |           1.44035 |           2.22183 |      1.12992e+06 |           221793 |           0       |
 
 ## Unit of measurement of the different features
-RB<sub>DL</sub>: %
-RB<sub>UL</sub>: %
-V<sub>DL</sub> : kbyte
-V<sub>UL</sub> : kbyte
-A: linear power ratio $10^{\frac{dB}{10}}$
-P<sub>Max</sub>: dB
+RB<sub>DL</sub>: % <br>
+RB<sub>UL</sub>: % <br>
+V<sub>DL</sub> : kbyte <br>
+V<sub>UL</sub> : kbyte <br>
+A: linear power ratio $10^{\frac{dB}{10}}$ <br>
+P<sub>Max</sub>: dB <br>
